@@ -698,6 +698,11 @@ video {
   line-height: 1.5rem;
 }
 
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
 .font-extrabold {
   font-weight: 800;
 }
@@ -743,5 +748,10 @@ video {
 
   .md\:max-w-96 {
     max-width: 24rem;
+  }
+
+  .md\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 }
